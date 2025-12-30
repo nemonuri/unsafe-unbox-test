@@ -76,12 +76,15 @@ What is the problem?
 
 Am I missing something?
 
+You can download my full source code in Github
+- [Github Link](https://github.com/nemonuri/unsafe-unbox-test/tree/main)
+
 ## How to run test?
 
 ### Prerequisite
 
 1. .NET SDK 10
-2. Windows OS, supports `.NetFramework v4.6.2` and PowerSehll
+2. Windows OS, supports `.NetFramework v4.6.2` and PowerShell
 
 ### How to
 
